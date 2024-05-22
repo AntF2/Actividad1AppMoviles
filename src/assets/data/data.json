@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$SlvraQkvZ/HkMCca3wGdoO90AvpJiDo0tsd98JRbgKkJKkpgQyw1i",
+      "id": 1
+    },
+    {
+      "email": "ant2003@gmail.com",
+      "password": "$2a$10$Lm9Tvg.BfymCz3cD.OXJ9O6.hK3H2ERw8T750qs4Y8Hv1p31i5FL2",
+      "userType": "admin",
+      "id": 2
+    },
+    {
+      "email": "kar23@mail.com",
+      "password": "$2a$10$ySONJQYeqUneEDN2/wPZBeldtbDCDHpo6i8RmIC7ZGMK4lKhzIFsS",
+      "userType": "user",
+      "id": 3
+    }
+  ]
+}
